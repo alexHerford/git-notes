@@ -1,5 +1,5 @@
-# git-notes
-my first steps into the world of git
+## git-notes
+# my first steps into the world of git
 
 On GitHub, saved changes are called commits.
 Each commit has an associated commit message,
